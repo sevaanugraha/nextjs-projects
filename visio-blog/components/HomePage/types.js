@@ -1,0 +1,9 @@
+export const ACTION_TYPES = {
+  UPDATE_DATA: "UPDATE_DATA",
+  FILTER_BY_CATEGORY_ID: "FILTER_BY_CATEGORY_ID",
+  FILTER_BY_QUERY: "FILTER_BY_QUERY",
+};
+
+export const ID_TYPES = {
+  BLOGS_SECTION: "blogs-section",
+};
